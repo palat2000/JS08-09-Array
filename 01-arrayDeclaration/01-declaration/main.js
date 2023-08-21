@@ -1,0 +1,1 @@
+const friends = ["pond","pond","pond","pond","pond"];
